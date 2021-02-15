@@ -1,6 +1,6 @@
 # jokenpo
 
-A new Flutter project.
+My second project developed with Dart and Flutter.
 
 <p align="center">
   <img width="410" height"798" src="toreadme.png">
